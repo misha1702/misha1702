@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Misha Gohel
 - 🎓 I'm a student pursuing Bachelors of Computer Application
 - 🌱 As I'm first year student of BCA, I’m currently learning C language and HTML
-- 👀 I’m interested in C language
+- 👀 I’m interested in C programming
 - 📫 How to reach me- misha.gohel.in@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:"I'm a fan of click-clack of mechnical keyboard and appreciate a good typing sound!"
