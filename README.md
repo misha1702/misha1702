@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Misha Gohel
 - 🎓 I'm a student pursuing Bachelors of Computer Application (BCA)
-- 🌱 Currently, I’m exploring the exciting world of web development with HTML, CSS, and beyond!
-- 👀 My interests lie in creating visually appealing and user-friendly websites.
+- 🌱 Currently, I’m learning C++, Oracle, and WordPress while sharpening my debugging and problem-solving skills.
+- 👀 I enjoy building clean, functional websites and love figuring out how to make things work behind the scenes.
 - 📫 How to reach me- misha.gohel.in@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:"I'm a fan of click-clack of mechnical keyboard and appreciate a good typing sound!"
